@@ -1,4 +1,4 @@
-<div style="text-align: center">Discord js bot </div>
+<p align="center">Discord js bot </p>
 
 
 Commands:
