@@ -1,4 +1,4 @@
-Discord js bot 
+<center>Discord js bot </center>
 
 
 Commands:
