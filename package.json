@@ -1,0 +1,24 @@
+{
+  "name": "discordjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Eyren24",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.79",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "request": "^2.88.2",
+    "twitch-api": "^0.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
